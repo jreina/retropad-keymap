@@ -1,0 +1,27 @@
+{
+  "name": "Retropad",
+  "vendorProductId": 81324812,
+  "macros": [
+    "{KC_LGUI,KC_L}",
+    "{KC_LALT,KC_A}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "{KC_LCTL,KC_LGUI,KC_Q}",
+    "{KC_LGUI,KC_LSFT,KC_A}",
+    "{KC_LGUI,KC_W}"
+  ],
+  "layers": [
+    ["KC_NO", "TO(1)", "MACRO00", "KC_MPLY", "KC_MPRV", "KC_MNXT"],
+    ["KC_NO", "TO(2)", "MACRO00", "KC_MPLY", "KC_MRWD", "KC_MFFD"],
+    ["KC_NO", "TO(0)", "MACRO13", "KC_MPLY", "MACRO14", "MACRO15"]
+  ]
+}
